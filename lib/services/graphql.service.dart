@@ -1,5 +1,5 @@
 import 'package:graphql_flutter/graphql_flutter.dart';
-import 'package:main/contants/env.dart';
+import 'package:main/constants/env.dart';
 import 'package:flutter/material.dart';
 
 class GraphqlService {
